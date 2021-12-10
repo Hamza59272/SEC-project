@@ -1,0 +1,27 @@
+.navbar {
+  background: red;
+  height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1.2rem;
+  position: sticky;
+  top: 0;
+  z-index: 999;
+}
+
+.navbartext1 {
+  color: white;
+  margin-left: 2rem;
+}
+
+.navbar_text2 {
+  color: white;
+}
+
+.navbar_text3 {
+  color: black;
+  margin-right: 2rem; 
+  background-color: yellow;
+  padding: .5rem;
+}
